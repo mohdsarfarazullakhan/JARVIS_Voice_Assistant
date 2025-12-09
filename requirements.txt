@@ -1,0 +1,9 @@
+pyttsx3
+speechrecognition
+sounddevice
+numpy
+wikipedia
+pywhatkit
+pyjokes
+opencv-python
+pyautogui
